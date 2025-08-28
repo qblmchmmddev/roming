@@ -3,6 +3,8 @@
 Roming is a simple desktop application that helps you **download and manage game ROMs** in one place.
 It provides a clean interface to search, and download ROM collection, making it easier to set up your favorite games for emulation.
 
+![demo](./demo.gif)
+
 ## ✨ Features
 - 📥 Download game ROMs directly from within the app
 - 🔍 Simple and intuitive user interface
