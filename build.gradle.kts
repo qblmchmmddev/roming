@@ -63,6 +63,7 @@ tasks.withType<Test> {
 tasks {
     processResources {
         from(sourceSets.main.get().resources.srcDirs)
+        duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     }
 }
 
